@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blsdy/.idea/blsdy.iml" filepath="$PROJECT_DIR$/../blsdy/.idea/blsdy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snbook.iml" filepath="$PROJECT_DIR$/.idea/snbook.iml" />
+      <module fileurl="file://$USER_HOME$/tencent/.idea/tencent.iml" filepath="$USER_HOME$/tencent/.idea/tencent.iml" />
+    </modules>
+  </component>
+</project>
